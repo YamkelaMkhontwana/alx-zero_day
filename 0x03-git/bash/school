@@ -2,3 +2,4 @@
 School
 #!/bin/bash
  echo "School"
+#!/bin/bash\n echo "School" 
